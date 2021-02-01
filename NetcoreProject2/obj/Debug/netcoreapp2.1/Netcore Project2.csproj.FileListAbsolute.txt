@@ -1,0 +1,28 @@
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.deps.json
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.runtimeconfig.json
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.runtimeconfig.dev.json
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.dll
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.csprojAssemblyReference.cache
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.csproj.CoreCompileInputs.cache
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.RazorAssemblyInfo.cache
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.RazorAssemblyInfo.cs
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.AssemblyInfoInputs.cache
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.AssemblyInfo.cs
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.RazorTargetAssemblyInfo.cache
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.pdb
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.dll
+F:\Sem 2\Web Technology\Project 2 Core\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.pdb
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.deps.json
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.runtimeconfig.json
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.runtimeconfig.dev.json
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.dll
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\bin\Debug\netcoreapp2.1\Netcore Project2.pdb
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.csprojAssemblyReference.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.csproj.CoreCompileInputs.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.RazorAssemblyInfo.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.RazorAssemblyInfo.cs
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.AssemblyInfoInputs.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.AssemblyInfo.cs
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.RazorTargetAssemblyInfo.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.dll
+F:\Sem 2\Web Technology\New folder\Netcore Project2\Netcore Project2\obj\Debug\netcoreapp2.1\Netcore Project2.pdb

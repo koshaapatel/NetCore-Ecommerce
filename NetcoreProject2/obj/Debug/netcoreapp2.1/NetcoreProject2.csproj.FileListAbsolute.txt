@@ -1,0 +1,27 @@
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.deps.json
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.runtimeconfig.json
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.runtimeconfig.dev.json
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.dll
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.pdb
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.csproj.CoreCompileInputs.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.RazorAssemblyInfo.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.RazorAssemblyInfo.cs
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.AssemblyInfoInputs.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.AssemblyInfo.cs
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.RazorTargetAssemblyInfo.cache
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.dll
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.pdb
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.deps.json
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.runtimeconfig.json
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.runtimeconfig.dev.json
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.dll
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\bin\Debug\netcoreapp2.1\NetcoreProject2.pdb
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.csproj.CoreCompileInputs.cache
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.RazorAssemblyInfo.cache
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.RazorAssemblyInfo.cs
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.AssemblyInfoInputs.cache
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.AssemblyInfo.cs
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.RazorTargetAssemblyInfo.cache
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.dll
+C:\Users\kosha\source\repos\NetCore-Ecommerce2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.pdb
+F:\Sem 2\Web Technology\New folder\Netcore Project2\NetcoreProject2\obj\Debug\netcoreapp2.1\NetcoreProject2.csprojAssemblyReference.cache
